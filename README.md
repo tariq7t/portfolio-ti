@@ -1,2 +1,2 @@
 # portfolio-ti
-Sample portfolio.
+Sample portfolio 
